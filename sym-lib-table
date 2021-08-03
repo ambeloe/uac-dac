@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name dac)(type Legacy)(uri ${KIPRJMOD}/dac.lib)(options "")(descr ""))
+  (lib (name SJ-3502-SMT)(type Legacy)(uri ${KIPRJMOD}/SJ-3502-SMT.lib)(options "")(descr ""))
+  (lib (name MAX13330GEEV)(type Legacy)(uri ${KIPRJMOD}/MAX13330GEEV.lib)(options "")(descr ""))
+  (lib (name ICS-40300)(type Legacy)(uri ${KIPRJMOD}/ICS-40300.lib)(options "")(descr ""))
+  (lib (name dac-rescue)(type Legacy)(uri ${KIPRJMOD}/dac-rescue.lib)(options "")(descr ""))
+)
